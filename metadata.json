@@ -1,0 +1,6 @@
+{
+  "name": "تخيل AI",
+  "description": "تطبيق توليد صور وفيديوهات بالذكاء الاصطناعي مع إمكانية تحميل موديلات Civitai وتحويل الأفكار العربية إلى روائع بصرية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
